@@ -2,10 +2,7 @@
 
 @tailwind base;
 @tailwind components;
-/* Tailwind expands this directive during the CSS build. */
-/* stylelint-disable at-rule-no-unknown */
 @tailwind utilities;
-/* stylelint-enable at-rule-no-unknown */
 
 
 html {
